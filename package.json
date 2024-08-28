@@ -1,0 +1,19 @@
+{
+  "name": "excell",
+  "version": "1.0.0",
+  "description": "backend for excell project sih",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+   "dev" : "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "\"prem\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
